@@ -1,0 +1,1 @@
+export const IS_NAV_EXPANDED = "IS_NAV_EXPANDED";
