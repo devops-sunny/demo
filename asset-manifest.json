@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b624f366.chunk.css",
+    "main.js": "/static/js/main.b77a2db6.chunk.js",
+    "main.js.map": "/static/js/main.b77a2db6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5c3cb578.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5c3cb578.js.map",
+    "static/js/2.beb77213.chunk.js": "/static/js/2.beb77213.chunk.js",
+    "static/js/2.beb77213.chunk.js.map": "/static/js/2.beb77213.chunk.js.map",
+    "static/js/3.2d17d3c3.chunk.js": "/static/js/3.2d17d3c3.chunk.js",
+    "static/js/3.2d17d3c3.chunk.js.map": "/static/js/3.2d17d3c3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b624f366.chunk.css.map": "/static/css/main.b624f366.chunk.css.map",
+    "static/js/2.beb77213.chunk.js.LICENSE.txt": "/static/js/2.beb77213.chunk.js.LICENSE.txt",
+    "static/media/doctors-icon.4f16b3d8.svg": "/static/media/doctors-icon.4f16b3d8.svg",
+    "static/media/style-main.css": "/static/media/full-bg.e29aa3cd.svg",
+    "static/media/logo-large.a18e4622.svg": "/static/media/logo-large.a18e4622.svg",
+    "static/media/logo.5aac7a73.svg": "/static/media/logo.5aac7a73.svg",
+    "static/media/logout-icon.0083dc13.svg": "/static/media/logout-icon.0083dc13.svg",
+    "static/media/patients-icon.ff98381b.svg": "/static/media/patients-icon.ff98381b.svg",
+    "static/media/pharmacists-icon.1d3315ee.svg": "/static/media/pharmacists-icon.1d3315ee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c3cb578.js",
+    "static/js/2.beb77213.chunk.js",
+    "static/css/main.b624f366.chunk.css",
+    "static/js/main.b77a2db6.chunk.js"
+  ]
+}
